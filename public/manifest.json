@@ -1,0 +1,15 @@
+{
+  "short_name": "Espresso App",
+  "name": "Espresso App",
+  "icons": [
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "130x130"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
